@@ -1,0 +1,23 @@
+{
+  "name": "ToDo-List-App-React-master",
+  "version": "1.0.0",
+  "description": "The goal of this project is to practice JavaScript and its paradigms by creating a TODO app. This app should be able to add TODOs and track the number of total TODOs as well as the number of unchecked TODOs.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuxUgonabo/ToDo-List-App-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChuxUgonabo/ToDo-List-App-React/issues"
+  },
+  "homepage": "https://github.com/ChuxUgonabo/ToDo-List-App-React#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
